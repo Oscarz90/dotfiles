@@ -39,6 +39,8 @@
   tool = vimdiff
 [difftool]
   prompt = false
+[merge]
+  tool = meld
 [gitflow "prefix"]
   feature = feat/
   release = rel/

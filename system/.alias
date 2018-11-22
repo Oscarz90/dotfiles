@@ -92,4 +92,4 @@ alias hidedesktop="defaults write com.apple.finder CreateDesktop -bool false && 
 alias showdesktop="defaults write com.apple.finder CreateDesktop -bool true && killall Finder"
 
 alias ll="ls -la"
-alias fos="cd ~/workspace/fos-vuejs"
+alias fos="cd ~/workspace/fos/fos-vuejs"

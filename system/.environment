@@ -1,5 +1,1 @@
-export EDITOR="vim"
-export LC_ALL="en_US.UTF-8"
-export LANG="en_US"
-export M2_HOME=/Applications/apache-maven-3.5.4
-export JAVA_HOME=/Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home
+export OMS="Oscar Martinez Sanchez"

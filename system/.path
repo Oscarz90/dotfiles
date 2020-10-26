@@ -1,5 +1,1 @@
-#export PATH=/usr/local/bin:$PATH
-
-prepend-path "/usr/local/bin"
-prepend-path $M2_HOME/bin
-prepend-path $JAVA_HOME/bin
+prepend-path ~/.local/bin
